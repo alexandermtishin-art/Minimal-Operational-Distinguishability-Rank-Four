@@ -1,0 +1,13 @@
+{
+  "dephasing": "Exact rational Bloch matrices reproduce Example 3.3",
+  "filters": "Idempotence and noncommutation verified",
+  "hardy_support": "Five global assignments; none extends 00 at context 00; all local projections full",
+  "reset_witness": "Normal-form multiplication and the two frame-neutral Boolean states verified",
+  "local_injective_preservation": {
+    "finite_cases": 756
+  },
+  "free_product": {
+    "normal_forms_through_length_5": 291,
+    "checked": "Generator relations, homomorphism onto the dephasing monoid of Example 3.3 (x_i -> D_z, t -> D_n) and distinct-degree powers"
+  }
+}
